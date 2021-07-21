@@ -23,7 +23,7 @@ python3 hidephish.py
 ```
 (Tested on Kali Linux, Termux & Ubuntu , windows)
 
-## Start Disscussion on MaskPhish
+## Start Disscussion on HidePhish
 Want to discuss about MaskPhish with us? [click here](https://github.com/thelinuxuser-choice/hidephish/discussions).
 
 ## Screenshot
