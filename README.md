@@ -12,7 +12,7 @@ python script that hide phishing url like a pro "masking url technique"
 
 
 ## Legal Disclaimer:
-FOR EDUCATIONAL PURPOSES ONLY. Usage of MaskPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Use Responsibly!
+FOR EDUCATIONAL PURPOSES ONLY. Usage of HidePhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Use Responsibly!
 
 ## Installation 
 
@@ -24,7 +24,7 @@ python3 hidephish.py
 (Tested on Kali Linux, Termux & Ubuntu , windows)
 
 ## Start Disscussion on HidePhish
-Want to discuss about MaskPhish with us? [click here](https://github.com/thelinuxuser-choice/hidephish/discussions).
+Want to discuss about HidePhish with us? [click here](https://github.com/thelinuxuser-choice/hidephish/discussions).
 
 ## Screenshot
 <p align="center">
